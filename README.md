@@ -2,6 +2,9 @@
 
 A small PySide6 desktop app for unencrypt many PDF files in one batch using a known password.
 
+<img width="722" height="532" alt="image" src="https://github.com/user-attachments/assets/c7bcb76e-aed7-4de1-8bba-0a8ca1725018" />
+
+
 ## Features
 
 - Select multiple PDF files at once
