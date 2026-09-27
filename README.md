@@ -1,6 +1,6 @@
 # Batch PDF Unencrypt
 
-A small PySide6 desktop app for decrypting many PDF files in one batch using a known password.
+A small PySide6 desktop app for unencrypt many PDF files in one batch using a known password.
 
 ## Features
 
